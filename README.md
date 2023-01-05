@@ -1,16 +1,5 @@
-# counter_project
+Проект счетчик в рамках дисципины Основы Ui и UX дизайна!
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/92377503/210761855-3c6c4995-7252-4579-aadb-0bf0ec1db943.png)
+![image](https://user-images.githubusercontent.com/92377503/210761931-9a6a83eb-1ca6-4d71-a73e-db01bdfa7710.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
